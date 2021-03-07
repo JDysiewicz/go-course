@@ -1,4 +1,4 @@
-module github.com/jdysiewicz/go-course
+module github.com/JDysiewicz/go-course
 
 go 1.14
 

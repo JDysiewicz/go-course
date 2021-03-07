@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/jdysiewicz/go-course/pkg/config"
-	"github.com/jdysiewicz/go-course/pkg/models"
-	"github.com/jdysiewicz/go-course/pkg/render"
+	"github.com/JDysiewicz/go-course/pkg/config"
+	"github.com/JDysiewicz/go-course/pkg/models"
+	"github.com/JDysiewicz/go-course/pkg/render"
 )
 
 

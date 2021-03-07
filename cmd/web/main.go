@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/JDysiewicz/go-course/pkg/config"
+	"github.com/JDysiewicz/go-course/pkg/handlers"
+	"github.com/JDysiewicz/go-course/pkg/render"
 	"github.com/alexedwards/scs/v2"
-	"github.com/jdysiewicz/go-course/pkg/config"
-	"github.com/jdysiewicz/go-course/pkg/handlers"
-	"github.com/jdysiewicz/go-course/pkg/render"
 )
 
 // Divide page handler

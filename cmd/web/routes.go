@@ -3,10 +3,10 @@ package main
 import (
 	"net/http"
 
+	"github.com/JDysiewicz/go-course/pkg/config"
+	"github.com/JDysiewicz/go-course/pkg/handlers"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
-	"github.com/jdysiewicz/go-course/pkg/config"
-	"github.com/jdysiewicz/go-course/pkg/handlers"
 )
 
 
